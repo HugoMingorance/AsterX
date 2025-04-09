@@ -387,6 +387,7 @@
 "Assets/__Scripts/ScaleSpriteToFillOrthographicCamera.cs"
 "Assets/__Scripts/ScreenBounds.cs"
 "Assets/__Scripts/TiltWithVelocity.cs"
+"Assets/__Scripts/TitleScreenPanel.cs"
 "Assets/__Scripts/TurretPointAtMouse.cs"
 "Assets/__Scripts/Vector3Extensions.cs"
 -langversion:9.0
